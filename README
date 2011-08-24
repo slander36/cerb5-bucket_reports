@@ -1,0 +1,8 @@
+# Created by Sean Lander (salander@gamesalad.com) #
+#           Created for GameSalad Inc             #
+
+To Use:
+
+1. Clone this file into your cerb5/features/ folder
+2. Rename cerb5-bucket_reports to gamesalad.reports
+3. Enable plugin through Cerb5 online

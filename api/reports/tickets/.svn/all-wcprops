@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets
+END
+CreatedTicketsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/CreatedTicketsReport.php
+END
+TicketsAssignmentReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/TicketsAssignmentReport.php
+END
+ClosedTicketsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/ClosedTicketsReport.php
+END
+TopContactsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/TopContactsReport.php
+END
+OldestOpenTicketsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/OldestOpenTicketsReport.php
+END
+OpenTicketsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/OpenTicketsReport.php
+END
+WaitingTicketsReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/tickets/WaitingTicketsReport.php
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins
+END
+jqplot.enhancedLegendRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.enhancedLegendRenderer.min.js
+END
+jqplot.BezierCurveRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.BezierCurveRenderer.min.js
+END
+jqplot.meterGaugeRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.meterGaugeRenderer.min.js
+END
+jqplot.ohlcRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.ohlcRenderer.min.js
+END
+jqplot.pointLabels.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.pointLabels.min.js
+END
+jqplot.cursor.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.cursor.min.js
+END
+jqplot.funnelRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.funnelRenderer.min.js
+END
+jqplot.donutRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.donutRenderer.min.js
+END
+jqplot.blockRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.blockRenderer.min.js
+END
+jqplot.bubbleRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.bubbleRenderer.min.js
+END
+jqplot.mekkoAxisRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.mekkoAxisRenderer.min.js
+END
+jqplot.trendline.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.trendline.min.js
+END
+jqplot.canvasAxisLabelRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js
+END
+jqplot.dateAxisRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.dateAxisRenderer.min.js
+END
+jqplot.categoryAxisRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.categoryAxisRenderer.min.js
+END
+jqplot.barRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.barRenderer.min.js
+END
+jqplot.json2.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.json2.min.js
+END
+jqplot.logAxisRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.logAxisRenderer.min.js
+END
+jqplot.mekkoRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.mekkoRenderer.min.js
+END
+jqplot.highlighter.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.highlighter.min.js
+END
+jqplot.dragable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.dragable.min.js
+END
+jqplot.canvasAxisTickRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.canvasAxisTickRenderer.min.js
+END
+jqplot.pieRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.pieRenderer.min.js
+END
+jqplot.canvasTextRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.canvasTextRenderer.min.js
+END
+jqplot.ciParser.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/resources/js/jqplot/plugins/jqplot.ciParser.min.js
+END

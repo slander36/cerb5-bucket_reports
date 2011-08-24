@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.devblocks.com/schema/plugin.xsd">
+	<id>gamesalad.reports</id>
+	<name>GameSalad Reports</name>
+	<description>An Extension of the default reports created by the Cerb5 team from WebGroup Media, LLC. Adds Ticket Tracking by Bucket to the already extensive list of reports.</description>
+	<author>GameSalad Inc.</author>
+	<revision>0.1</revision>
+	<link></link>
+	<image>plugin.png</image>
+
+	<!-- Plugin Dependencies -->
+	
+	<dependencies>
+		<require plugin_id="cerberusweb.core" version="5.0.0-beta" />
+	</dependencies>
+
+	<!-- Exported Classes -->
+	
+	<class_loader>
+		<file path="api/App.php">
+			<class name="Extension_Report" />
+			<class name="Extension_ReportGroup" />
+		</file>
+	</class_loader>
+
+	<acl>
+		<!-- Report Groups -->
+		<priv id="reports.group.tickets" label="acl.reports.group.tickets" />
+	</acl>
+		
+	<extensions>
+
+	<!-- Page Extensions -->
+	
+	<extension point="cerberusweb.page">
+		<id>reports.page</id>
+		<name>Reports Page</name>
+		<class>
+			<file>api/App.php</file>
+			<name>ChReportsPage</name>
+		</class>
+		<params>
+			<param key="uri" value="reports" />
+			<param key="menutitle" value="reports.menu.reports" />
+		</params>
+	</extension>
+	
+	<!-- Report Groups -->
+	
+	<extension point="cerberusweb.report">
+		<id>report.tickets.open_bucket_tickets</id>
+		<name>Open Bucket Tickets Report</name>
+		<class>
+			<file>api/reports/tickets/OpenBucketTicketsReport.php</file>
+			<name>CHReportOpenBucketTickets</name>
+		</class>
+		<params>
+			<param key="report_name" value="reports.ui.ticket.open_bucket_tickets" />
+			<param key="report_group" value="report.group.tickets" />
+		</params>
+	</extension>
+
+	<extension point="cerberusweb.report">
+		<id>report.tickets.closed_bucket_tickets</id>
+		<name>Closed Bucket Tickets Report</name>
+		<class>
+			<file>api/reports/tickets/ClosedBucketTicketsReport.php</file>
+			<name>CHReportClosedBucketTickets</name>
+		</class>
+		<params>
+			<param key="report_name" value="reports.ui.ticket.closed_bucket_tickets" />
+			<param key="report_group" value="report.group.tickets" />
+		</params>
+	</extension>
+	
+	</extensions>
+	
+</plugin>

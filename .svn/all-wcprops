@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cerb5/!svn/ver/207/branches/stable/cerb5/features/cerberusweb.reports
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cerb5/!svn/ver/159/branches/stable/cerb5/features/cerberusweb.reports/strings.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cerb5/!svn/ver/159/branches/stable/cerb5/features/cerberusweb.reports/plugin.xml
+END
