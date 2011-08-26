@@ -2,7 +2,7 @@
 
 dir
 210
-http://svn.webgroupmedia.com/cerb5/branches/stable/cerb5/features/cerberusweb.reports/api/reports
+http://svn.webgroupmedia.com/cerb5/branches/stable/cerb5/features/cerberusweb.reports/api/reports/custom_fields
 http://svn.webgroupmedia.com/cerb5
 
 
@@ -26,21 +26,15 @@ svn:special svn:externals svn:needs-lock
 
 bee86312-8adc-49d8-99a5-132726a8dace
 
-groups
-dir
-
-custom_fields
-dir
-
-spam
-dir
-
-tickets
-dir
-
-worker
-dir
-
-orgs
-dir
+CustomFieldsUsageReport.php
+file
+
+
+
+
+2011-01-18T02:13:02.000000Z
+e0cbc3b23534f0e1397257e8fca675a6
+2011-01-18T02:12:21.581384Z
+147
+jstanden
 

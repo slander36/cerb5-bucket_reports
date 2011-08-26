@@ -1,5 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports
+V 96
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/custom_fields
+END
+CustomFieldsUsageReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/cerb5/!svn/ver/147/branches/stable/cerb5/features/cerberusweb.reports/api/reports/custom_fields/CustomFieldsUsageReport.php
 END

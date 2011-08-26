@@ -8,14 +8,21 @@
 		<tu tuid='reports.ui.ticket.open_bucket_tickets'>
 			<tuv xml:lang="en_US"><seg>Currently Open Tickets by Bucket</seg></tuv>
 		</tu>>
-		
 
 		<tu tuid='reports.ui.ticket.closed_bucket_tickets'>
 			<tuv xml:lang="en_US"><seg>Closed Tickets by Bucket by Date Range</seg></tuv>
 		</tu>
 
+		<tu tuid='reports.ui.custom_fields.custom_field_usage_by_date'>
+			<tuv xml:lang="en_US"><seg>Custom Field Usage by Date</seg></tuv>
+		</tu>
+
 		<tu tuid='reports.ui.filters.bucket'>
 			<tuv xml:lang="en_US"><seg>Filter by Bucket</seg></tuv>
+		</tu>
+
+		<tu tuid='reports.ui.custom_fields.usage_by_date'>
+			<tuv xml:lang="en_US"><seg>Custom Field Usage by Date</seg></tuv>
 		</tu>
 	</body>
 </tmx>
