@@ -158,24 +158,12 @@ class CHReportCustomFieldUsageByDate extends Extension_Report {
 		);
 		$rs = $db->Execute($sql);
 	
-		$value_counts = array();
-
-//		echo "Date_Group: $date_group<br/>";
-//		echo "Table: $table<br/>";
-//		echo "Field Context: ".$field->context."<br/>";
-//		echo "Start Time: $start_time<br/>";
-//		echo "End Time: $end_time<br/>";
-//		echo "<br/>$sql<br/><br/>";
-//		echo "isset(\$rs): ".isset($rs)."<br/>";
+		$value_counts = array();;
 
 		while($row = mysql_fetch_assoc($rs)) {
 			$value = preg_replace('/\s/','',$row['field_value']);
 			$hits = intval($row['hits']);
 			$date_plot = $row['date_plot'];
-
-//			echo "Value: $value<br/>";
-//			echo "Hits: $hits<br/>";
-//			echo "Date Plot: $date_plot<br/>";
 
 			switch($field->type) {
 				case Model_CustomField::TYPE_CHECKBOX:
